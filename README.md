@@ -1,1 +1,1 @@
-# GETPL (Smart contracts coming soon!)
+# BETP (Smart contracts coming soon!)
